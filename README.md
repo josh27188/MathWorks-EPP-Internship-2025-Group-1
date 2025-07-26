@@ -61,4 +61,7 @@ Figure 4: Mass Properties & Center of Mass
 **Hand Calculations**   
 https://drive.google.com/drive/folders/10lNNwxoHOJNpBDjOo5zbXNCLQpnn-jCL?usp=sharing
 
-**MATLAB Produced Shear/Moment Diagrams under Team’s Parameters**  
+**MATLAB Produced Shear/Moment Diagrams under Team’s Parameters**
+
+[https://drive.google.com/drive/folders/10lNNwxoHOJNpBDjOo5zbXNCLQpnn-jCL?usp=sharing](https://drive.google.com/drive/folders/10lNNwxoHOJNpBDjOo5zbXNCLQpnn-jCL?usp=sharing)
+

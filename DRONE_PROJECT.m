@@ -10,7 +10,7 @@ V = 0;       % The speed of the drone in m/s
 d = 0.031;   % The width of our drone arm
 L = 0.19825; % The length of our drone arm
 Fm = 9.81;   % The force due to one motor in Newtons
-mArm = 0.25; % The mass of one arm in kg
+mArm = 0.13; % The mass of one arm in kg
 g = 9.81;    % The acceleration due to gravity
 
 w = (1/2)*P*Cd*(V^2)*d;   % The load applied on the arm due to drag
